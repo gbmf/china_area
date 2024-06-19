@@ -1,2 +1,6 @@
 dat/
 ~*
+crawer/
+cache
+pyscript/
+.*
